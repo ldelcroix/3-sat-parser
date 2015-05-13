@@ -1,3 +1,4 @@
 {
-	"name":"ldelcroix/3-sat-parser"
+	"name":"ldelcroix/3-sat-parser",
+	"minimum-stability": "dev"
 }
